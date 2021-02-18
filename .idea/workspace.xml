@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1499b91c-4aa3-4ccb-bca4-ff4cf0be0afe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/windwalker/edge" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/.github" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/language" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/.phan" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/src" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mItKNVoGdgnXLESO1fo4jLzJnH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1499b91c-4aa3-4ccb-bca4-ff4cf0be0afe" name="Default Changelist" comment="" />
+      <created>1609192881453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609192881453</updated>
+      <workItem from="1609192887591" duration="875000" />
+      <workItem from="1609253519906" duration="538000" />
+      <workItem from="1609254470705" duration="1719000" />
+      <workItem from="1609257293624" duration="1556000" />
+      <workItem from="1609505223751" duration="6619000" />
+      <workItem from="1609524863368" duration="5687000" />
+      <workItem from="1609584398843" duration="9448000" />
+      <workItem from="1609608072166" duration="10891000" />
+      <workItem from="1609668309195" duration="12416000" />
+      <workItem from="1609690778255" duration="10701000" />
+      <workItem from="1609854298461" duration="2527000" />
+      <workItem from="1609869298193" duration="7515000" />
+      <workItem from="1609966038823" duration="6000" />
+      <workItem from="1610015822639" duration="12684000" />
+      <workItem from="1610042083512" duration="5752000" />
+      <workItem from="1610132206125" duration="5487000" />
+      <workItem from="1610143014532" duration="595000" />
+      <workItem from="1610208032816" duration="13962000" />
+      <workItem from="1610228962725" duration="2064000" />
+      <workItem from="1610270674431" duration="12863000" />
+      <workItem from="1610300285505" duration="11023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
